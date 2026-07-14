@@ -1,6 +1,6 @@
-# Solusi Tugas Algoritma & SQL Query (Node.js)
+# Tugas Algoritma & SQL Query (Node.js)
 
-Repositori ini berisi kumpulan skrip JavaScript (Node.js) untuk menyelesaikan berbagai studi kasus logika algoritma dan eksekusi *query* *database* relasional. 
+Repositori ini berisi kumpulan skrip JavaScript (Node.js) untuk menyelesaikan  studi kasus logika algoritma dan eksekusi *query* *database* relasional. 
 
 Proyek ini dibangun menggunakan lingkungan Node.js murni dan memanfaatkan **AlaSQL** (In-Memory JavaScript SQL Database). Penggunaan AlaSQL dipilih agar eksekusi *query* SQL dapat langsung berjalan mulus di berbagai *environment* (termasuk StackBlitz, GitHub Codespaces, atau lokal) tanpa perlu menginstal *server database* terpisah atau pusing mengurus masalah *file binding* C++ pada SQLite.
 
